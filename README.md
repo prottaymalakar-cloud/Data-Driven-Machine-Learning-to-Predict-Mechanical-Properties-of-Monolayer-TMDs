@@ -1,0 +1,1 @@
+# Data-Driven-Machine-Learning-to-Predict-Mechanical-Properties-of-Monolayer-TMDs
